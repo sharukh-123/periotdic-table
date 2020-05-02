@@ -1,0 +1,13 @@
+td{
+    width: 4vw;
+    border: 1px solid #000000;
+    text-align: center;
+}
+.noborder{
+    border: none;
+}
+.HeadingOne{
+    background-color: yellow;
+    padding: 35px;
+    width: 970px
+}
